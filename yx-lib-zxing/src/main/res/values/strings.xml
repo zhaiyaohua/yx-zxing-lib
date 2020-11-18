@@ -1,0 +1,10 @@
+<resources>
+    <!--    扫码登录-->
+    <string name="scan_tips">将二维码放入框内，即可自动扫描</string>
+    <string name="open_flash_light">打开手电筒</string>
+    <string name="close_flash_light">关闭手电筒</string>
+    <string name="zxing_url">http://code.google.com/p/zxing</string>
+    <string name="flash">闪光灯</string>
+    <string name="button_web_search">Web search</string>
+    <string name="result_text">Found plain text</string>
+</resources>
