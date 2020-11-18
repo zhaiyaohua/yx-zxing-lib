@@ -102,7 +102,7 @@ public class CaptureActivity extends AppCompatActivity implements SurfaceHolder.
             window.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS);
             window.setStatusBarColor(getResources().getColor(R.color.c13));
         }
-        setContentView(R.layout.capture);
+        setContentView(R.layout.activity_capture);
 
         llCaptureTopContains = findViewById(R.id.llCaptureTopContains);
         hasSurface = false;
